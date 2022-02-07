@@ -17,4 +17,4 @@ spec:
       - image: docker.io/sandeepraidu/ks-guestbook-demo:01
         name: guestbook-ui
         ports:
-        - containerPort: 80
+        - containerPort: 8080
